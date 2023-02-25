@@ -10,9 +10,6 @@
 
  <p> Visando remediar esse problema, o projeto tem como objetivo o melhor planejamento do uso dos recursos hídricos de pequenos e médios agricultores, por meio da captação de águas pluviais e seu uso em sistemas de irrigação, sendo um produto low-cost e que possibilite a utilização do mesmo para todos os tipos de clientes. </p>
 
-## Link do repositorio do ESP-32: https://github.com/MyNameIsGustavo/FarmFit-ESP8266
-## Link do repositorio aplicativo mobile: https://github.com/MyNameIsGustavo/FarmFitMobile
-
 ## __Objetivos Específicos__
 
 <p> Com o objetivo de melhorar a administração dos recursos hídricos de pequenos e médios produtores, propõe-se a captação de águas pluviais na região de suas propriedades. Isso ocorre por meio de canos conectados às calhas de casas, barracões ou outras construções do local. Em seguida vem o armazenamento e o direcionamento para um sistema de irrigação. O tanque que estoca o líquido também pode ser preenchido manualmente ou ligado com a rede pública de abastecimento de água, de modo a não depender exclusivamente das chuvas e não comprometer a aguagem em períodos de estiagem. A rega é feita de modo a otimizar a utilização do líquido e evitar seu desperdício. Optou-se pela criação de um protótipo em escala que representa a iniciativa descrita instalada em uma quinta. </p>
